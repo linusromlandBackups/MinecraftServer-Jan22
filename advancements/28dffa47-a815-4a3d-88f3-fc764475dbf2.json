@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2022-01-18 19:09:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-01-18 19:03:44 +0000"
@@ -669,6 +675,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2022-01-18 18:44:54 +0000",
+      "minecraft:sunflower_plains": "2022-01-18 19:08:20 +0000",
       "minecraft:beach": "2022-01-18 18:59:01 +0000",
       "minecraft:river": "2022-01-18 18:53:59 +0000",
       "minecraft:snowy_plains": "2022-01-18 18:42:04 +0000",
@@ -694,6 +701,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2022-01-18 19:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2022-01-18 19:12:16 +0000"
     },
     "done": true
   },
