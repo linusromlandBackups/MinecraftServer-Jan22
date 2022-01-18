@@ -641,7 +641,8 @@
     "criteria": {
       "minecraft:skeleton": "2022-01-18 19:04:52 +0000",
       "minecraft:spider": "2022-01-18 19:02:11 +0000",
-      "minecraft:creeper": "2022-01-18 18:55:07 +0000"
+      "minecraft:creeper": "2022-01-18 18:55:07 +0000",
+      "minecraft:enderman": "2022-01-18 20:17:31 +0000"
     },
     "done": false
   },
@@ -738,6 +739,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2022-01-18 18:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2022-01-18 20:14:33 +0000"
     },
     "done": true
   },
@@ -1241,6 +1248,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2022-01-18 18:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2022-01-18 20:14:33 +0000"
     },
     "done": true
   },
