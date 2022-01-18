@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2022-01-18 19:04:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2022-01-18 18:52:26 +0000"
@@ -246,6 +252,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2022-01-18 19:04:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2022-01-18 18:52:26 +0000"
@@ -357,7 +369,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2022-01-18 19:01:31 +0000",
-      "beef": "2022-01-18 18:48:54 +0000"
+      "beef": "2022-01-18 18:48:54 +0000",
+      "cooked_chicken": "2022-01-18 19:06:05 +0000"
     },
     "done": false
   },
@@ -376,6 +389,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2022-01-18 18:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2022-01-18 19:04:13 +0000"
     },
     "done": true
   },
@@ -412,6 +431,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2022-01-18 18:49:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2022-01-18 19:04:13 +0000"
     },
     "done": true
   },
