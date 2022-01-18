@@ -344,6 +344,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2022-01-18 19:16:54 +0000",
+      "sweet_berries": "2022-01-18 19:28:16 +0000",
       "beef": "2022-01-18 19:28:06 +0000",
       "cooked_rabbit": "2022-01-18 19:11:09 +0000",
       "cooked_chicken": "2022-01-18 19:11:35 +0000"
@@ -383,6 +384,12 @@
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-01-18 19:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2022-01-18 19:28:51 +0000"
     },
     "done": true
   },
@@ -470,6 +477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2022-01-18 19:28:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2022-01-18 19:08:37 +0000"
@@ -518,6 +531,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2022-01-18 19:28:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2022-01-18 19:10:08 +0000"
@@ -550,12 +569,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2022-01-18 19:28:22 +0000",
       "minecraft:frozen_river": "2022-01-18 19:06:18 +0000",
       "minecraft:birch_forest": "2022-01-18 19:27:57 +0000",
       "minecraft:beach": "2022-01-18 19:21:25 +0000",
       "minecraft:river": "2022-01-18 19:09:28 +0000",
       "minecraft:snowy_plains": "2022-01-18 19:02:55 +0000",
+      "minecraft:cold_ocean": "2022-01-18 19:30:57 +0000",
       "minecraft:forest": "2022-01-18 19:07:37 +0000",
+      "minecraft:ocean": "2022-01-18 19:31:35 +0000",
       "minecraft:plains": "2022-01-18 19:13:32 +0000"
     },
     "done": false
@@ -845,6 +867,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2022-01-18 19:15:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2022-01-18 19:28:43 +0000"
     },
     "done": true
   },
