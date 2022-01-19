@@ -576,6 +576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2022-01-19 17:22:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-01-18 18:45:07 +0000"
@@ -855,6 +861,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2022-01-18 18:44:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2022-01-19 17:22:49 +0000"
     },
     "done": true
   },
@@ -1318,6 +1330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2022-01-19 17:23:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2022-01-18 18:45:06 +0000"
@@ -1507,6 +1525,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2022-01-18 19:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2022-01-19 17:22:49 +0000"
     },
     "done": true
   },
