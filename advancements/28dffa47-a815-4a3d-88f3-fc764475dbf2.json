@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2022-01-19 11:29:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2022-01-18 18:44:06 +0000"
@@ -245,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2022-01-19 11:29:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2022-01-18 18:45:06 +0000"
@@ -272,6 +284,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2022-01-18 19:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2022-01-19 11:31:57 +0000"
     },
     "done": true
   },
@@ -510,6 +528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2022-01-19 11:29:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2022-01-18 18:46:34 +0000"
@@ -531,6 +555,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-01-19 11:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2022-01-19 11:29:11 +0000"
     },
     "done": true
   },
@@ -726,9 +756,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2022-01-19 11:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2022-01-19 11:29:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2022-01-19 10:42:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2022-01-19 11:31:57 +0000"
     },
     "done": true
   },
@@ -741,6 +789,12 @@
       "minecraft:zombie": "2022-01-19 11:24:56 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2022-01-19 11:29:11 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
@@ -838,6 +892,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2022-01-19 11:29:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2022-01-18 18:49:52 +0000"
@@ -853,6 +913,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2022-01-19 11:12:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2022-01-19 11:29:11 +0000"
     },
     "done": true
   },
@@ -985,6 +1051,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2022-01-18 19:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2022-01-19 11:29:11 +0000"
     },
     "done": true
   },
@@ -1350,6 +1422,7 @@
       "minecraft:birch_forest": "2022-01-18 19:28:18 +0000",
       "minecraft:windswept_hills": "2022-01-18 19:55:22 +0000",
       "minecraft:wooded_badlands": "2022-01-18 21:41:35 +0000",
+      "minecraft:bamboo_jungle": "2022-01-19 11:33:28 +0000",
       "minecraft:savanna_plateau": "2022-01-18 21:30:14 +0000",
       "minecraft:beach": "2022-01-18 18:59:01 +0000",
       "minecraft:stony_peaks": "2022-01-18 21:06:44 +0000",
@@ -1367,6 +1440,7 @@
       "minecraft:deep_frozen_ocean": "2022-01-18 19:35:45 +0000",
       "minecraft:windswept_forest": "2022-01-18 19:59:33 +0000",
       "minecraft:ocean": "2022-01-18 19:31:16 +0000",
+      "minecraft:jungle": "2022-01-19 11:34:08 +0000",
       "minecraft:snowy_beach": "2022-01-18 18:44:57 +0000",
       "minecraft:flower_forest": "2022-01-18 21:26:28 +0000",
       "minecraft:windswept_gravelly_hills": "2022-01-18 21:09:19 +0000",
@@ -1429,6 +1503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2022-01-19 11:31:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2022-01-18 19:02:45 +0000"
@@ -1474,6 +1554,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2022-01-18 19:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2022-01-19 11:29:11 +0000"
     },
     "done": true
   },
@@ -1540,6 +1626,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_sword": "2022-01-18 19:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2022-01-19 11:29:11 +0000"
     },
     "done": true
   },
