@@ -523,6 +523,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2022-01-20 16:07:47 +0000",
       "minecraft:skeleton": "2022-01-19 19:15:15 +0000",
       "minecraft:spider": "2022-01-19 15:47:38 +0000",
       "minecraft:witch": "2022-01-20 15:03:49 +0000",
@@ -625,6 +626,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2022-01-19 17:17:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2022-01-20 16:07:47 +0000"
     },
     "done": true
   },
