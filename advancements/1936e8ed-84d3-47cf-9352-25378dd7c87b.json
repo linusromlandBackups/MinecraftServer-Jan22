@@ -524,6 +524,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2022-01-18 20:31:18 +0000",
+      "minecraft:creeper": "2022-01-20 13:46:05 +0000",
       "minecraft:zombie": "2022-01-18 21:06:37 +0000"
     },
     "done": false
@@ -2248,6 +2249,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2022-01-18 19:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2022-01-20 13:50:06 +0000"
     },
     "done": true
   },
