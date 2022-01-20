@@ -542,6 +542,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2022-01-18 20:31:18 +0000",
+      "minecraft:spider": "2022-01-20 14:11:42 +0000",
       "minecraft:creeper": "2022-01-20 13:46:05 +0000",
       "minecraft:zombie": "2022-01-18 21:06:37 +0000"
     },
@@ -1128,6 +1129,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2022-01-20 14:12:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2022-01-18 19:10:08 +0000"
@@ -1455,6 +1462,12 @@
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2022-01-18 19:09:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2022-01-20 14:15:39 +0000"
     },
     "done": true
   },
@@ -2465,6 +2478,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-01-18 19:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2022-01-20 14:15:39 +0000"
     },
     "done": true
   },
