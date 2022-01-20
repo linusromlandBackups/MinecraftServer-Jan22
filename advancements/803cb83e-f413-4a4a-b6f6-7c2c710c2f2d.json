@@ -525,7 +525,9 @@
     "criteria": {
       "minecraft:skeleton": "2022-01-19 19:15:15 +0000",
       "minecraft:spider": "2022-01-19 15:47:38 +0000",
+      "minecraft:witch": "2022-01-20 15:03:49 +0000",
       "minecraft:silverfish": "2022-01-19 18:16:28 +0000",
+      "minecraft:enderman": "2022-01-20 15:08:53 +0000",
       "minecraft:zombie": "2022-01-19 15:49:29 +0000"
     },
     "done": false
@@ -2279,6 +2281,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2022-01-19 16:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2022-01-20 15:08:05 +0000"
     },
     "done": true
   },
