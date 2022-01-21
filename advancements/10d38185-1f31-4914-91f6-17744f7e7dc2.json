@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2022-01-21 10:45:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2022-01-19 16:55:54 +0000"
@@ -540,6 +546,7 @@
       "minecraft:magma_cube": "2022-01-21 10:37:35 +0000",
       "minecraft:spider": "2022-01-20 14:09:48 +0000",
       "minecraft:cave_spider": "2022-01-20 13:39:46 +0000",
+      "minecraft:piglin": "2022-01-21 10:42:53 +0000",
       "minecraft:zombie": "2022-01-19 17:36:03 +0000"
     },
     "done": false
@@ -889,6 +896,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2022-01-19 16:47:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2022-01-21 10:47:41 +0000"
     },
     "done": true
   },
@@ -1623,6 +1636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2022-01-21 10:46:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2022-01-19 16:54:40 +0000"
@@ -1980,6 +1999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2022-01-21 10:46:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2022-01-19 18:41:49 +0000"
@@ -2025,6 +2050,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2022-01-20 13:43:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2022-01-21 10:47:41 +0000"
     },
     "done": true
   },
