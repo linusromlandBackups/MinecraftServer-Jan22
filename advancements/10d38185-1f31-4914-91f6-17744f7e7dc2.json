@@ -1355,6 +1355,7 @@
       "minecraft:snowy_plains": "2022-01-19 16:27:26 +0000",
       "minecraft:stony_shore": "2022-01-19 17:10:38 +0000",
       "minecraft:snowy_taiga": "2022-01-19 16:44:35 +0000",
+      "minecraft:dripstone_caves": "2022-01-21 21:00:06 +0000",
       "minecraft:cold_ocean": "2022-01-19 17:00:13 +0000",
       "minecraft:forest": "2022-01-19 17:38:42 +0000",
       "minecraft:lush_caves": "2022-01-20 11:01:35 +0000",
@@ -2250,6 +2251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2022-01-21 21:00:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-01-20 11:02:32 +0000"
@@ -2799,6 +2806,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2022-01-20 14:30:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2022-01-21 21:00:45 +0000"
     },
     "done": true
   },
