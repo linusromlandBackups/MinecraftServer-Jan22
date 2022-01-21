@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2022-01-21 18:43:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2022-01-19 16:47:15 +0000"
@@ -1908,7 +1914,8 @@
       "rotten_flesh": "2022-01-19 17:14:53 +0000",
       "salmon": "2022-01-19 18:45:16 +0000",
       "melon_slice": "2022-01-19 17:35:40 +0000",
-      "cooked_chicken": "2022-01-21 17:13:38 +0000"
+      "cooked_chicken": "2022-01-21 17:13:38 +0000",
+      "carrot": "2022-01-21 18:43:22 +0000"
     },
     "done": false
   },
@@ -2239,6 +2246,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2022-01-19 16:47:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2022-01-21 18:43:54 +0000"
     },
     "done": true
   },
@@ -2899,6 +2912,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2022-01-21 10:16:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2022-01-21 18:43:18 +0000"
     },
     "done": true
   },
