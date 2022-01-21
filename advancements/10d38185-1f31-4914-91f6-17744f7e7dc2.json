@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2022-01-21 13:08:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2022-01-19 18:32:14 +0000"
@@ -545,6 +551,7 @@
       "minecraft:skeleton": "2022-01-19 19:14:03 +0000",
       "minecraft:magma_cube": "2022-01-21 10:37:35 +0000",
       "minecraft:spider": "2022-01-20 14:09:48 +0000",
+      "minecraft:creeper": "2022-01-21 13:10:19 +0000",
       "minecraft:cave_spider": "2022-01-20 13:39:46 +0000",
       "minecraft:piglin": "2022-01-21 10:42:53 +0000",
       "minecraft:zombie": "2022-01-19 17:36:03 +0000"
