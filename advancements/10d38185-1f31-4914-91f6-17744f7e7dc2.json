@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2022-01-22 20:50:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2022-01-20 10:53:38 +0000"
@@ -1410,6 +1416,7 @@
       "minecraft:snowy_taiga": "2022-01-19 16:44:35 +0000",
       "minecraft:dripstone_caves": "2022-01-21 21:00:06 +0000",
       "minecraft:grove": "2022-01-22 20:03:04 +0000",
+      "minecraft:swamp": "2022-01-22 20:49:27 +0000",
       "minecraft:cold_ocean": "2022-01-19 17:00:13 +0000",
       "minecraft:forest": "2022-01-19 17:38:42 +0000",
       "minecraft:lush_caves": "2022-01-20 11:01:35 +0000",
@@ -1423,6 +1430,7 @@
       "minecraft:old_growth_spruce_taiga": "2022-01-22 20:33:52 +0000",
       "minecraft:snowy_beach": "2022-01-19 16:45:50 +0000",
       "minecraft:flower_forest": "2022-01-22 20:11:14 +0000",
+      "minecraft:old_growth_birch_forest": "2022-01-22 20:45:53 +0000",
       "minecraft:meadow": "2022-01-20 10:38:24 +0000",
       "minecraft:savanna": "2022-01-19 17:59:05 +0000",
       "minecraft:plains": "2022-01-19 17:21:05 +0000"
