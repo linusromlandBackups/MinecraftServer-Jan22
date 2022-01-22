@@ -2018,6 +2018,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/wax_on": {
+    "criteria": {
+      "wax_on": "2022-01-22 12:17:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2022-01-19 18:18:20 +0000"

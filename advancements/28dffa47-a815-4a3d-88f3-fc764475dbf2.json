@@ -545,6 +545,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2022-01-22 12:11:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2022-01-18 18:56:46 +0000"
@@ -1049,6 +1055,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2022-01-22 12:11:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-01-19 11:27:36 +0000"
@@ -1341,6 +1353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2022-01-22 12:11:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2022-01-19 17:25:37 +0000"
@@ -1561,6 +1579,7 @@
     "criteria": {
       "cooked_porkchop": "2022-01-18 18:49:07 +0000",
       "cooked_mutton": "2022-01-18 19:17:27 +0000",
+      "sweet_berries": "2022-01-22 12:13:52 +0000",
       "cooked_beef": "2022-01-18 19:00:28 +0000",
       "baked_potato": "2022-01-18 20:34:12 +0000",
       "apple": "2022-01-20 17:32:19 +0000",
@@ -1969,6 +1988,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2022-01-22 12:11:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-01-18 18:49:32 +0000"
@@ -2002,6 +2027,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2022-01-18 18:44:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2022-01-22 12:11:17 +0000"
     },
     "done": true
   },
