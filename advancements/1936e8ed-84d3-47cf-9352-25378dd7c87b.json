@@ -737,6 +737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2022-01-23 16:53:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-01-18 19:17:15 +0000"
@@ -1338,6 +1344,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2022-01-23 16:53:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2022-01-21 09:29:47 +0000"
@@ -1632,6 +1644,7 @@
       "minecraft:deep_lukewarm_ocean": "2022-01-19 19:04:31 +0000",
       "minecraft:flower_forest": "2022-01-18 21:26:26 +0000",
       "minecraft:old_growth_birch_forest": "2022-01-19 18:53:31 +0000",
+      "minecraft:meadow": "2022-01-23 16:59:41 +0000",
       "minecraft:windswept_gravelly_hills": "2022-01-18 21:09:23 +0000",
       "minecraft:savanna": "2022-01-18 21:27:47 +0000",
       "minecraft:plains": "2022-01-18 19:13:32 +0000"
@@ -3195,6 +3208,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-01-21 09:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2022-01-23 16:53:58 +0000"
     },
     "done": true
   },
