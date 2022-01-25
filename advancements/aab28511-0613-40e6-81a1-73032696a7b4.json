@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2022-01-25 15:40:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-01-23 17:06:50 +0000"
@@ -392,6 +398,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2022-01-19 16:00:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2022-01-25 15:40:52 +0000"
     },
     "done": true
   },
@@ -668,6 +680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2022-01-25 15:40:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-01-18 19:03:53 +0000"
@@ -920,6 +938,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2022-01-25 15:40:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2022-01-21 10:39:41 +0000"
@@ -959,6 +983,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2022-01-19 15:04:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2022-01-25 15:40:52 +0000"
     },
     "done": true
   },
@@ -1049,6 +1079,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2022-01-18 19:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2022-01-25 15:40:52 +0000"
     },
     "done": true
   },
@@ -1254,6 +1290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2022-01-25 15:40:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-01-18 18:46:57 +0000"
@@ -1317,6 +1359,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2022-01-24 18:15:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2022-01-25 15:40:52 +0000"
     },
     "done": true
   },
@@ -1678,6 +1726,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2022-01-24 18:15:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2022-01-25 15:40:52 +0000"
     },
     "done": true
   },
@@ -2274,6 +2328,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2022-01-25 15:40:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2022-01-18 18:45:16 +0000"
@@ -2508,6 +2568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2022-01-25 15:41:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2022-01-18 19:38:58 +0000"
@@ -2736,6 +2802,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2022-01-25 15:40:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-01-19 17:20:02 +0000"
@@ -2775,6 +2847,12 @@
   "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-01-19 17:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2022-01-25 15:40:52 +0000"
     },
     "done": true
   },
